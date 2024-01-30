@@ -87,6 +87,8 @@
 
 - 菜鸟教程 [http://www.runoob.com/cprogramming/c-tutorial.html](http://www.runoob.com/cprogramming/c-tutorial.html)
 - 廖雪峰的C语言教程 [https://www.liaoxuefeng.com/wiki/1252599548343744](https://www.liaoxuefeng.com/wiki/1252599548343744)
+- [《C 语言入门教程》发布了 - 阮一峰的网络日志 (ruanyifeng.com)](https://www.ruanyifeng.com/blog/2021/09/c-language-tutorial.html)
+- 
 
 ### 最佳实践：
 
