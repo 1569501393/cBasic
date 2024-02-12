@@ -1,0 +1,57 @@
+hello world 
+debug i = 0 start===============
+debug j = 1 
+debug arr[1] = 4, arr[0] = 5 
+debug j = 2 
+debug arr[2] = 3, arr[1] = 4 
+debug j = 3 
+debug arr[3] = 2, arr[2] = 3 
+debug j = 4 
+debug arr[4] = 1, arr[3] = 2 
+debug arr key=min=4 != i=0, arr[4]=1 
+debug i = 0 end=============== 
+arr[0] = 1 
+arr[1] = 4 
+arr[2] = 3 
+arr[3] = 2 
+arr[4] = 5 
+debug i = 1 start===============
+debug j = 2 
+debug arr[2] = 3, arr[1] = 4 
+debug j = 3 
+debug arr[3] = 2, arr[2] = 3 
+debug j = 4 
+debug arr[4] = 5, arr[3] = 2 
+debug arr key=min=3 != i=1, arr[3]=2 
+debug i = 1 end=============== 
+arr[0] = 1 
+arr[1] = 2 
+arr[2] = 3 
+arr[3] = 4 
+arr[4] = 5 
+debug i = 2 start===============
+debug j = 3 
+debug arr[3] = 4, arr[2] = 3 
+debug j = 4 
+debug arr[4] = 5, arr[2] = 3 
+debug i = 2 end=============== 
+arr[0] = 1 
+arr[1] = 2 
+arr[2] = 3 
+arr[3] = 4 
+arr[4] = 5 
+debug i = 3 start===============
+debug j = 4 
+debug arr[4] = 5, arr[3] = 4 
+debug i = 3 end=============== 
+arr[0] = 1 
+arr[1] = 2 
+arr[2] = 3 
+arr[3] = 4 
+arr[4] = 5 
+排序结果为===
+arr[0] = 1 
+arr[1] = 2 
+arr[2] = 3 
+arr[3] = 4 
+arr[4] = 5 
